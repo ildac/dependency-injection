@@ -1,5 +1,5 @@
-#### Depenendency Injection in Scala
-## It's a work in progress
+# Depenendency Injection in Scala
+#### It's a work in progress
 
 The goal of this repo is to work out all the different style of dependency injection in scala.
 
