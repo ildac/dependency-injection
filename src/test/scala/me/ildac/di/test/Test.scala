@@ -1,4 +1,4 @@
-package me.dacol.di.test
+package me.ildac.di.test
 
 import org.scalatest._
 

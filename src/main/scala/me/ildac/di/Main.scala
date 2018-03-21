@@ -1,4 +1,4 @@
-package me.dacol.di
+package me.ildac.di
 
 object Main extends App {
   ???
